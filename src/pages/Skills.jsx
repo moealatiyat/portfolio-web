@@ -15,6 +15,11 @@ const detailedSkills = [
         name: 'Todo App Center',
         description: 'Built a semantic and accessible HTML structure with proper heading hierarchy and ARIA attributes.',
         link: 'https://todoappcenter.netlify.app/'
+      },
+      {
+        name: 'Pokemon Wordle',
+        description: 'Created a semantic HTML structure for an interactive word guessing game with proper game board layout and accessibility features.',
+        link: 'https://moealatiyat.github.io/pokemonwordle/'
       }
     ]
   },
@@ -29,6 +34,11 @@ const detailedSkills = [
         name: 'Todo App Center',
         description: 'Created a responsive and modern UI with smooth animations and transitions using vanilla CSS.',
         link: 'https://todoappcenter.netlify.app/'
+      },
+      {
+        name: 'Pokemon Wordle',
+        description: 'Designed a responsive game interface with smooth animations, keyboard styling, and a clean, modern look using vanilla CSS.',
+        link: 'https://moealatiyat.github.io/pokemonwordle/'
       }
     ]
   },
@@ -43,6 +53,11 @@ const detailedSkills = [
         name: 'Todo App Center',
         description: 'Implemented interactive features and local storage functionality using vanilla JavaScript.',
         link: 'https://todoappcenter.netlify.app/'
+      },
+      {
+        name: 'Pokemon Wordle',
+        description: 'Developed game logic, keyboard interactions, and Pokemon API integration using vanilla JavaScript.',
+        link: 'https://moealatiyat.github.io/pokemonwordle/'
       }
     ]
   },
